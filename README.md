@@ -1,2 +1,2 @@
-# Food-Classification-with-Deep-Learning-in-Keras-Tensorflow-
+# Food-Classification
 food-101-keras
